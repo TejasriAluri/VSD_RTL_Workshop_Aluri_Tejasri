@@ -448,7 +448,6 @@ Prepare for **Day 3** where you'll explore:
 
 <div align="center">
 
-**🎉 Excellent Progress on Day 2! 🎉**
 
 *You've built a solid foundation in timing libraries and sequential logic design!*
 
