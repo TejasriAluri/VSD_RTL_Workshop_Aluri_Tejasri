@@ -166,7 +166,7 @@ RTL_Workshop/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/krishna-4git/RTL2GDS_RISC-V_VSDTapeout_Krishna-sLog
+git clone https://github.com/TejasriAluri/VSD_RTL_Workshop_Aluri_Tejasri
 cd RTL_Workshop
 ```
 
