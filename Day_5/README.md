@@ -802,9 +802,6 @@ The comprehensive skills learned in this workshop prepare you for:
 
 **🌟 You are ready to excel in the digital design industry! 🌟**
 
-### 🏆 Workshop Completion Certificate 🏆
-*This README serves as documentation of your successful completion of all workshop objectives and practical implementations.*
-
 </div>
 
 ---
