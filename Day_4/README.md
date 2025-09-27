@@ -577,7 +577,7 @@ The concepts learned today are fundamental to:
 
 <div align="center">
 
-**🎉 Exceptional Progress on Day 4! 🎉**
+
 
 *You've mastered critical verification and synthesis concepts that are essential for professional digital design!*
 
@@ -593,5 +593,3 @@ The concepts learned today are fundamental to:
 - [Synthesis and Timing Closure](https://www.synopsys.com/glossary/what-is-timing-closure.html)
 - [Gate-Level Simulation Best Practices](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/synthesis/genus-synthesis-solution.html)
 - [Verilog Coding Guidelines](https://zipcpu.com/blog/2018/08/20/good-verilog.html)
-
-**Outstanding work mastering advanced verification concepts! 🚀**
