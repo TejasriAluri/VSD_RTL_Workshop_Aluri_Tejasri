@@ -525,7 +525,7 @@ Get ready for **Day 4** where you'll explore:
 
 <div align="center">
 
-**🎉 Outstanding Progress on Day 3! 🎉**
+
 
 *You've mastered the art and science of logic optimization!*
 
