@@ -453,9 +453,7 @@ Prepare for **Day 2** where you'll dive deeper into:
 
 <div align="center">
 
-**🎉 Congratulations on Completing Day 1! 🎉**
 
-*You've taken the first important step in your RTL design journey!*
 
 **Ready for Day 2?** → [Day 2: Timing Libraries & Flip-Flop Coding](../Day_2/README.md)
 
