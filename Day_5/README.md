@@ -794,13 +794,6 @@ The comprehensive skills learned in this workshop prepare you for:
 
 <div align="center">
 
-**🎉🎊 CONGRATULATIONS! 🎊🎉**
-
-**You have successfully completed the comprehensive RTL Design and Synthesis Workshop!**
-
-*You now possess industry-level skills in digital design, synthesis, and verification.*
-
-**🌟 You are ready to excel in the digital design industry! 🌟**
 
 </div>
 
@@ -827,7 +820,3 @@ The comprehensive skills learned in this workshop prepare you for:
 - [EDA Consortium](https://www.edac.org/) - EDA Industry Organization
 
 ---
-
-**🚀 Thank you for completing this journey with excellence and dedication! 🚀**
-
-**Your commitment to learning and mastery will drive innovation in digital design!**
